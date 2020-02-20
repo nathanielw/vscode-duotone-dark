@@ -99,6 +99,30 @@ module.exports = {
         "ID": "duotone_dark_sky",
         "NAME": "Sky"
     },
+    "SkyCustom": {
+        "UNO1": "#d1c7f4",
+        "UNO2": "#baabef",
+        "UNO3": "#a390ea",
+        "UNO4": "#7569a5",
+        "UNO5": "#484260",
+
+        "DUO1": "#dda9ed",
+        "DUO2": "#a17eaf",
+        "DUO3": "#665372",
+
+        "BACKGROUND": "#2c2734",
+        "INVISIBLES": "#443d51",
+        "LINE_HIGHLIGHT": "#342E3D",
+        "SELECTION": "#494256",
+        "INVALID": "#F8F8F0",
+        "INVALID_BG": "#F92672",
+        "DEPRECATED": "#F8F8F0",
+        "DEPRECATED_BG": "#AE81FF",
+
+        "UUID": "18c3f154-7fe6-43f0-9a88-845c10670d95",
+        "ID": "duotone_dark_sky_custom",
+        "NAME": "Sky Custom"
+    },
     // https://github.com/simurai/duotone-dark-earth-syntax
     "Earth": {
         "UNO1": "#ffdac2",
